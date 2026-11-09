@@ -5,4 +5,5 @@ body {
 h1 {
     font-size: 12px;
     font-family: 'Times New Roman', Times, serif;
+    line-height: normal;
 }
